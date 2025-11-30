@@ -1,3 +1,5 @@
+Project Description:
+
 The project is important because it tackles a challenging problem that is present in society. 
 Oftentimes, drivers are not aware of the fact that they are distracted, drowsy, or unattentive while driving. 
 We are excited about the project because we hope to utilize the skills we have learned in the course to develop a meaningful system that will contribute to the improvement of
