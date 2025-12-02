@@ -335,6 +335,6 @@ print("Predictions: \n")
 print(test_data[['Event_ID', 'Driver_ID', 'Level_Of_Drowsiness', 'Predicted_Alert']])
 
 print(" ")
-print("Model Accuracy: ")
+
 accuracy = (y_prediction == y_train).mean() * 100
-print(f"Accuracy: {accuracy:.2f}%")
+print(f"Model Accuracy: {accuracy:.2f}%")
