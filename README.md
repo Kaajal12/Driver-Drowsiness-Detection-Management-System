@@ -11,3 +11,7 @@ A few instances of prior works revolve around drowsiness detection using respira
 Such prior work is relevant to our project because it showcases how various researchers and data scientists have used various features to create prediction models.
 
 
+Project Proposal Paper: https://github.com/R-Yadav123/Driver-Drowsiness-Detection-Management-System/blob/main/driver-drowsiness-detection-safety-alert-system.pdf
+Project Interim Paper: https://github.com/R-Yadav123/Driver-Drowsiness-Detection-Management-System/blob/main/CS210%20Final%20Project%20Interim%20Report%20.pdf
+
+Tech Stack & Technological Tools: Python, SQL, VSCode, DbVisualizer, Google Teachable Machine, Pytorch
