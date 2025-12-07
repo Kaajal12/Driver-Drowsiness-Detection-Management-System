@@ -33,6 +33,7 @@ m.eval()
 testingImage = Image.open("train/images/GOPR0492_MP4-0_jpg.rf.00209cfdd7156b1316a2064cd640c595.jpg").convert("RGB").resize((64,64))
 #train/images/GOPR0492_MP4-520_jpg.rf.63d37a6c1c72b083f9f63631c5fb4f2c.jpg answer for drowsy
 #train/images/GOPR0492_MP4-0_jpg.rf.00209cfdd7156b1316a2064cd640c595.jpg for awake classfying
+
 newLoadingImage = torch.tensor(np.array(testingImage)).permute(2,0,1).float()/255
 newLoadingImage = newLoadingImage.reshape(1, -1)
 
