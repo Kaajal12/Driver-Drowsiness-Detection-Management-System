@@ -16,4 +16,7 @@ Project Proposal Paper: https://github.com/R-Yadav123/Driver-Drowsiness-Detectio
 
 Project Interim Paper: https://github.com/R-Yadav123/Driver-Drowsiness-Detection-Management-System/blob/main/CS210%20Final%20Project%20Interim%20Report%20.pdf
 
+Presentation: https://docs.google.com/presentation/d/1sIcvpEw8hK-SzzTPzcYC8vC5WEizczlmOs9tbRecle4/edit?usp=sharing
+
+Final Paper: https://docs.google.com/document/d/1qI0zhh3kCtTdCk5Q4Esz5IRlfOfWMen0FhkwXvXHhng/edit?usp=sharing
 Tech Stack & Technological Tools: Python, SQL, VSCode, DbVisualizer, SQLite, Pytorch
