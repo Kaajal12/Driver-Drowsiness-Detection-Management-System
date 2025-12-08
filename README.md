@@ -12,6 +12,8 @@ Such prior work is relevant to our project because it showcases how various rese
 
 
 Project Proposal Paper: https://github.com/R-Yadav123/Driver-Drowsiness-Detection-Management-System/blob/main/driver-drowsiness-detection-safety-alert-system.pdf
+
+
 Project Interim Paper: https://github.com/R-Yadav123/Driver-Drowsiness-Detection-Management-System/blob/main/CS210%20Final%20Project%20Interim%20Report%20.pdf
 
 Tech Stack & Technological Tools: Python, SQL, VSCode, DbVisualizer, SQLite, Pytorch
