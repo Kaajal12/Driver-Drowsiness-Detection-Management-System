@@ -22,5 +22,5 @@ Final Paper: https://docs.google.com/document/d/1qI0zhh3kCtTdCk5Q4Esz5IRlfOfWMen
 
 Video Presentation & Demo: https://drive.google.com/file/d/1CP_gQf9w2VmMyZqklWQACQmbIu5mJK-A/view?usp=sharing
 
-Tech Stack & Technological Tools: Python, SQL, VSCode, DbVisualizer, SQLite, Pytorch
+Tech Stack & Technological Tools: Python, SQL, VSCode, DbVisualizer, SQLite, Pytorch   
 
